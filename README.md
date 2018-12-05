@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/otyNick/iReporter_v2.svg?branch=master)](https://travis-ci.org/otyNick/iReporter_v2)
 [![codecov](https://codecov.io/gh/otyNick/iReporter_v2/branch/master/graph/badge.svg)](https://codecov.io/gh/otyNick/iReporter_v2)
 
+# Project : iReporter
 Corruption is a huge bane to Africa’s development. African countries must develop novel and localised solutions that will curb this menace, hence the birth of iReporter. iReporter enables any/every citizen to bring any form of corruption to the notice of appropriate authorities and the general public. Users can also report on things that needs government intervention
 
 To view postman collection
@@ -31,7 +32,7 @@ or resolved (in the event that the claim has been investigated and resolved).
 **Clone the repo**
 
 ```.env
- git clone https://github.com/otyNick/iReporter.git
+https://github.com/otyNick/iReporter_v2.git
 ```
 
 **Setup environment**
