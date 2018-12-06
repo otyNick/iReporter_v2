@@ -1,7 +1,6 @@
 from marshmallow import Schema, fields
 import datetime as dt
 
-[Finishes #162439461] Build out REST CRUD API Endpoints
 #incident list
 incident_list = [
     {
